@@ -2,6 +2,9 @@
 
 Order Microservice with api gateway template using gRPC.
 
+ ## Medium link
+https://medium.com/@rehmanakram03/microservices-communication-api-gateway-pattern-using-grpc-a165c7425bfb
+
 ## Repositories
 
 Auth micro service: https://github.com/Rehman-Akram/grpc-auth-svc
